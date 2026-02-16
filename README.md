@@ -1,4 +1,5 @@
 # nvidiaprofileinsceptor-Guide
+Pls make sure you have winrar install when not you can make a support ticket on my discord 
 Pls for more help join https://dsc.gg/lukaservice or discord.gg/AbKhH4Np2n
 
 Step.1 Simply install and unpack
